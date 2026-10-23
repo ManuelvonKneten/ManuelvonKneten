@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VK Development — Ideen in digitale Produkte verwandeln.">
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VK Development — Turning ideas into digital products.">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
@@ -31,7 +31,7 @@
   <line x1="60" y1="176" x2="420" y2="176" stroke="#4fd1ff" stroke-opacity="0.45" stroke-width="1.5"/>
 
   <!-- claim -->
-  <text x="60" y="216" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" fill="#c9d1d9" letter-spacing="0.3">Ideen in digitale Produkte verwandeln.</text>
+  <text x="60" y="216" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" fill="#c9d1d9" letter-spacing="0.3">Turning ideas into digital products.</text>
 
   <!-- footer tag -->
   <text x="60" y="252" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#4fd1ff" fill-opacity="0.6">vk-development.com</text>

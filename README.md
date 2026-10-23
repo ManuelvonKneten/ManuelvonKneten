@@ -1,50 +1,50 @@
 <div align="center">
-  <img src="assets/header.svg" alt="VK Development — Ideen in digitale Produkte verwandeln." width="100%" />
+  <img src="assets/header.svg" alt="VK Development — Turning ideas into digital products." width="100%" />
 </div>
 
 <br/>
 
-Ich bin Manuel, Frontend-Entwickler in Ausbildung bei der Developer Akademie und Gründer von **VK Development**. Ich baue saubere, responsive Web-Anwendungen mit Vanilla JavaScript und objektorientierter Architektur — und erweitere meinen Stack gerade gezielt Richtung TypeScript, Angular und Backend/Linux, um ganze Produkte statt nur Oberflächen liefern zu können.
+I'm Manuel, a frontend developer in training at Developer Akademie and founder of **VK Development**. I build clean, responsive web applications with vanilla JavaScript and object-oriented architecture — and I'm currently extending my stack toward TypeScript, Angular, and backend/Linux to deliver full products, not just interfaces.
 
 <br/>
 
 ### 🔧 Stack
 
-|  | Technologien |
+|  | Technologies |
 |---|---|
-| **Im Einsatz** | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Firebase (REST) |
-| **Aktuell in Vertiefung** | TypeScript · Angular · Python · Django · Linux-Serveradministration · Backend-Entwicklung |
+| **In active use** | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Firebase (REST) |
+| **Currently deepening** | TypeScript · Angular · Python · Django · Linux server administration · Backend development |
 
 <br/>
 
-### 📌 Ausgewählte Projekte
+### 📌 Featured Projects
 
-**[Join](https://github.com/ManuelvonKneten/Join)** — Kanban-Board mit Drag & Drop, Firebase-Realtime-DB-Anbindung über REST, Task- und Kontaktverwaltung, Subtasks und Authentifizierung inkl. Gastmodus.
+**[Join](https://github.com/ManuelvonKneten/Join)** — Kanban board with drag & drop, Firebase Realtime Database over REST, task and contact management, subtasks, and authentication incl. guest mode.
 Stack: HTML · CSS · JavaScript · Firebase
-*Teamprojekt (3 Entwickler) im Rahmen der Developer Akademie.*
+*Team project (3 developers) built at Developer Akademie.*
 
-**[PokeDex](https://github.com/ManuelvonKneten/PokeDex)** — Interaktive Pokédex-Anwendung mit Anbindung an die PokéAPI, Live-Suche, Pagination per Load-more und Dark-Mode-Toggle.
+**[PokeDex](https://github.com/ManuelvonKneten/PokeDex)** — Interactive Pokédex app connected to the PokéAPI, with live search, load-more pagination, and a dark mode toggle.
 Stack: HTML · CSS · JavaScript · PokéAPI
 
-**[BestellApp](https://github.com/ManuelvonKneten/BestellApp)** — Lernprojekt zur Übung der Web-Grundlagen: Produktkatalog, Warenkorb und automatische Summenberechnung.
+**[BestellApp](https://github.com/ManuelvonKneten/BestellApp)** — Learning project practicing web fundamentals: product catalog, shopping cart, and automatic total calculation.
 Stack: HTML · CSS · JavaScript
 
-**[El_Pollo_Loco](https://github.com/ManuelvonKneten/El_Pollo_Loco)** — 2D-Jump-and-Run im Browser auf Basis der HTML5-Canvas-API, objektorientiert in reinem Vanilla JavaScript umgesetzt, installierbar als PWA.
-Stack: JavaScript (ES6-Klassen) · Canvas API
-🎮 [Live spielen](https://pollo.manuel-von-kneten.de/)
+**[El_Pollo_Loco](https://github.com/ManuelvonKneten/El_Pollo_Loco)** — Browser-based 2D jump-and-run built on the HTML5 Canvas API, object-oriented vanilla JavaScript, installable as a PWA.
+Stack: JavaScript (ES6 classes) · Canvas API
+🎮 [Play live](https://pollo.manuel-von-kneten.de/)
 
 <br/>
 
-### 📊 GitHub-Aktivität
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&hide_border=true&disable_animations=true&bg_color=0D1117&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&hide_border=true&disable_animations=true&background=0D1117&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF&stroke=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&disable_animations=true&bg_color=161B22&border_color=30363D&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&disable_animations=true&background=161B22&border=30363D&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
 
-### 📬 Kontakt
+### 📬 Contact
 
 🌐 [vk-development.com](https://vk-development.com) · ✉️ [info@vk-development.com](mailto:info@vk-development.com)
 
