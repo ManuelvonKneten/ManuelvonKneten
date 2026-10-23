@@ -37,9 +37,15 @@ Stack: JavaScript (ES6 classes) · Canvas API
 
 ### 📊 GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelvonKneten/ManuelvonKneten/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelvonKneten/ManuelvonKneten/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/ManuelvonKneten/ManuelvonKneten/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&disable_animations=true&bg_color=161B22&border_color=30363D&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&disable_animations=true&background=161B22&border=30363D&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&hide_rank=true&disable_animations=true&theme=tokyonight&bg_color=161B22&border_color=30363D&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&disable_animations=true&theme=tokyonight&background=161B22&border=30363D&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
