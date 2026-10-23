@@ -38,8 +38,8 @@ Stack: JavaScript (ES6-Klassen) · Canvas API
 ### 📊 GitHub-Aktivität
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&hide_border=true&background=0D1117&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF&stroke=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelvonKneten&show_icons=true&hide_border=true&disable_animations=true&bg_color=0D1117&title_color=4FD1FF&icon_color=4FD1FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelvonKneten&hide_border=true&disable_animations=true&background=0D1117&ring=4FD1FF&fire=4FD1FF&currStreakLabel=4FD1FF&stroke=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
