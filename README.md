@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg?v=2" alt="VK Development — Turning ideas into digital products." width="100%" />
+  <img src="assets/header.svg?v=3" alt="VK Development — Turning ideas into digital products." width="100%" />
 </div>
 
 <br/>
