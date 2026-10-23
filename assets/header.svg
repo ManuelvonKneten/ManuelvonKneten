@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VK Development — Ideen in digitale Produkte verwandeln.">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="78%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="1200" height="280" fill="url(#fade)"/>
+
+  <!-- corner brackets -->
+  <path d="M 36 32 L 36 56 M 36 32 L 60 32" fill="none" stroke="#4fd1ff" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M 1164 248 L 1164 224 M 1164 248 L 1140 248" fill="none" stroke="#4fd1ff" stroke-opacity="0.55" stroke-width="2"/>
+
+  <!-- accent prompt glyph -->
+  <text x="60" y="98" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="22" fill="#4fd1ff" fill-opacity="0.85">&gt;_</text>
+
+  <!-- wordmark -->
+  <text x="98" y="104" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#e6edf3" letter-spacing="0.5">VK Development</text>
+
+  <!-- subline -->
+  <text x="60" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">Manuel von Kneten&#160;&#160;·&#160;&#160;Frontend Developer in Training</text>
+
+  <!-- divider -->
+  <line x1="60" y1="176" x2="420" y2="176" stroke="#4fd1ff" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <!-- claim -->
+  <text x="60" y="216" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" fill="#c9d1d9" letter-spacing="0.3">Ideen in digitale Produkte verwandeln.</text>
+
+  <!-- footer tag -->
+  <text x="60" y="252" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#4fd1ff" fill-opacity="0.6">vk-development.com</text>
+</svg>
