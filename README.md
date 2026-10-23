@@ -15,11 +15,6 @@ I'm Manuel, a frontend developer in training at Developer Akademie and founder o
 | **In active use** | HTML5 · CSS3 · JavaScript (ES6+) · Responsive Design · Firebase (REST) |
 | **Currently deepening** | TypeScript · Angular · Python · Django · Linux server administration · Backend development |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelvonKneten&layout=compact&hide_border=true&disable_animations=true&theme=tokyonight&bg_color=161B22&border_color=30363D&title_color=4FD1FF&text_color=C9D1D9" alt="Language mix across my public repos" />
-</p>
-<p align="center"><sub>Language mix across my public repos</sub></p>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ### 📌 Featured Projects
