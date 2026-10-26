@@ -25,7 +25,8 @@ I'm Manuel, a frontend developer in training at Developer Akademie and founder o
       <strong><a href="https://github.com/ManuelvonKneten/Join">Join</a></strong><br/>
       Kanban board with drag &amp; drop, Firebase Realtime Database over REST, task and contact management, subtasks, and authentication incl. guest mode.<br/>
       <sub>Stack: HTML · CSS · JavaScript · Firebase</sub><br/>
-      <sub><em>Team project (3 developers) built at Developer Akademie.</em></sub>
+      <sub><em>Team project (3 developers) built at Developer Akademie.</em></sub><br/>
+      🚀 <a href="https://join.manuel-von-kneten.de/">Try live</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/ManuelvonKneten/PokeDex">PokeDex</a></strong><br/>
