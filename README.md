@@ -31,7 +31,8 @@ I'm Manuel, a frontend developer in training at Developer Akademie and founder o
     <td width="50%" valign="top">
       <strong><a href="https://github.com/ManuelvonKneten/PokeDex">PokeDex</a></strong><br/>
       Interactive Pokédex app connected to the PokéAPI, with live search, load-more pagination, and a dark mode toggle.<br/>
-      <sub>Stack: HTML · CSS · JavaScript · PokéAPI</sub>
+      <sub>Stack: HTML · CSS · JavaScript · PokéAPI</sub><br/>
+      🚀 <a href="https://pokedex.manuel-von-kneten.de/">Try live</a>
     </td>
   </tr>
   <tr>
